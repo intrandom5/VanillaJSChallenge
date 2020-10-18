@@ -1,0 +1,2 @@
+# VanillaJSChallenge
+ JS challenge
