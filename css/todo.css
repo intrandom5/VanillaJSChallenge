@@ -1,7 +1,6 @@
 .todo{
-    
     padding: 20px;
-    display: flex;
+    display: none;
     flex-direction: column;
     align-items: center;
     width: 600px;
